@@ -2,7 +2,7 @@
 Fixter is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 ---
 
-## Fixter Part 1
+## Fixter Part-1
 
 #### Features
 - [x] User sees an app icon on the home screen and a styled launch screen.
