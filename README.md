@@ -2,6 +2,16 @@
 Fixter is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 ---
 
+## Fixter Part 2
+
+#### Features
+- [x] User can tap a cell to see more details about a particular movie.
+- [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+### App Walkthough GIF
+
+<img src="http://recordit.co/tOO2fCQURE" width=250><br>
+
 ## Fixter Part-1
 
 #### Features
