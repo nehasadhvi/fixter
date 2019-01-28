@@ -10,7 +10,7 @@ Fixter is an app that allows users to browse movies from the [The Movie Database
 
 ### App Walkthough GIF
 
-<img src="http://g.recordit.co/tOO2fCQURE" width=250><br>
+<img src="http://g.recordit.co/tOO2fCQURE.gif" width=250><br>
 
 ## Fixter Part-1
 
